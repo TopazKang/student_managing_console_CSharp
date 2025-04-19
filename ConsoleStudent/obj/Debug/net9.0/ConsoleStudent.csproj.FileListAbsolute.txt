@@ -1,0 +1,14 @@
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\bin\Debug\net9.0\ConsoleStudent.exe
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\bin\Debug\net9.0\ConsoleStudent.deps.json
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\bin\Debug\net9.0\ConsoleStudent.runtimeconfig.json
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\bin\Debug\net9.0\ConsoleStudent.dll
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\bin\Debug\net9.0\ConsoleStudent.pdb
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\obj\Debug\net9.0\ConsoleStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\obj\Debug\net9.0\ConsoleStudent.AssemblyInfoInputs.cache
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\obj\Debug\net9.0\ConsoleStudent.AssemblyInfo.cs
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\obj\Debug\net9.0\ConsoleStudent.csproj.CoreCompileInputs.cache
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\obj\Debug\net9.0\ConsoleStudent.dll
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\obj\Debug\net9.0\refint\ConsoleStudent.dll
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\obj\Debug\net9.0\ConsoleStudent.pdb
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\obj\Debug\net9.0\ConsoleStudent.genruntimeconfig.cache
+C:\Users\kjh14\dev\csharp\ConsoleStudent\ConsoleStudent\obj\Debug\net9.0\ref\ConsoleStudent.dll
